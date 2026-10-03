@@ -1,0 +1,4 @@
+OrderID,Customer,Product,Category,Quantity,Price,OrderDate
+1001,Alice,Laptop,Electronics,1,1500,2023-06-01
+1002,Bob,Chair,Furniture,2,180,2023-06-03
+1003,Alice,Mouse,Electronics,3,25,2023-06-05
