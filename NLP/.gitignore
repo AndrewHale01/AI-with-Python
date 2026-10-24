@@ -1,0 +1,4 @@
+__pycache__/
+export_*_Reviews.csv
+processed_reviews.csv
+processed_reviews.json
